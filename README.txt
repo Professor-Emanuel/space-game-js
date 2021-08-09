@@ -1,16 +1,19 @@
 DONE:
 -Create a player -
--Shoot projectiles -
+-Shoot projectiles on click -
 -Create enemy bullets -
 -Spawn enemy bullets -
+-Detect collision on enemy / player hit -
+-Detect collision on enemy / player bullets hit -
+-Remove off screen enemy bullets & player bullets -
+-Enemy bullet - player bullet impact explosion sound - 
 
 Not DONE:
--Detect collision on enemy / projectile hit
--Detect collision on enemy / player hit
--Remove off screen projectiles
+-Create particle explosion on hit
+
 -Color game
 -Shrink enemies on hit
--Create particle explosion on hit
+
 -Add score
 -Add game over UI
 -Add restart button
