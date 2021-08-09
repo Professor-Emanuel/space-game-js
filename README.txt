@@ -24,6 +24,11 @@ Not DONE:
 
 -CSS FrameWork:   https://tailwindcss.com/
 
+//have to register for downloading (free or payed sprites)
+Sprite sheets and game art: https://www.gamedeveloperstudio.com/ 
 
+Sound effects: https://opengameart.org/
+
+//Online free vertical png flipper: https://onlinepngtools.com/flip-png-vertically
 
 
